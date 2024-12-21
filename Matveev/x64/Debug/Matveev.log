@@ -1,0 +1,90 @@
+﻿  MainForm.cpp
+C:\Users\almaz\OneDrive\Рабочий стол\Trashn\Matveev\Matveev\MainForm.h(501,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'MainForm.cpp')
+  
+C:\Users\almaz\OneDrive\Рабочий стол\Trashn\Matveev\Matveev\MainForm.h(606,121): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MainForm.cpp')
+  
+C:\Users\almaz\OneDrive\Рабочий стол\Trashn\Matveev\Matveev\MainForm.h(606,113): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MainForm.cpp')
+  
+C:\Users\almaz\OneDrive\Рабочий стол\Trashn\Matveev\Matveev\MainForm.h(740,11): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'MainForm.cpp')
+  
+C:\Users\almaz\OneDrive\Рабочий стол\Trashn\Matveev\Matveev\MainForm.h(739,11): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'MainForm.cpp')
+  
+C:\Users\almaz\OneDrive\Рабочий стол\Trashn\Matveev\Matveev\MainForm.h(745,11): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'MainForm.cpp')
+  
+C:\Users\almaz\OneDrive\Рабочий стол\Trashn\Matveev\Matveev\MainForm.h(744,11): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'MainForm.cpp')
+  
+C:\Users\almaz\OneDrive\Рабочий стол\Trashn\Matveev\Matveev\MainForm.h(754,126): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MainForm.cpp')
+  
+C:\Users\almaz\OneDrive\Рабочий стол\Trashn\Matveev\Matveev\MainForm.h(754,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MainForm.cpp')
+  
+C:\Users\almaz\OneDrive\Рабочий стол\Trashn\Matveev\Matveev\MainForm.h(783,11): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'MainForm.cpp')
+  
+C:\Users\almaz\OneDrive\Рабочий стол\Trashn\Matveev\Matveev\MainForm.h(782,11): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'MainForm.cpp')
+  
+C:\Users\almaz\OneDrive\Рабочий стол\Trashn\Matveev\Matveev\MainForm.h(788,11): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'MainForm.cpp')
+  
+C:\Users\almaz\OneDrive\Рабочий стол\Trashn\Matveev\Matveev\MainForm.h(787,11): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'MainForm.cpp')
+  
+C:\Users\almaz\OneDrive\Рабочий стол\Trashn\Matveev\Matveev\MainForm.h(797,126): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MainForm.cpp')
+  
+C:\Users\almaz\OneDrive\Рабочий стол\Trashn\Matveev\Matveev\MainForm.h(797,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MainForm.cpp')
+  
+C:\Users\almaz\OneDrive\Рабочий стол\Trashn\Matveev\Matveev\MainForm.h(1028,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MainForm.cpp')
+  
+C:\Users\almaz\OneDrive\Рабочий стол\Trashn\Matveev\Matveev\MainForm.h(1030,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MainForm.cpp')
+  
+C:\Users\almaz\OneDrive\Рабочий стол\Trashn\Matveev\Matveev\MainForm.h(1030,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MainForm.cpp')
+  
+C:\Users\almaz\OneDrive\Рабочий стол\Trashn\Matveev\Matveev\MainForm.h(1031,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MainForm.cpp')
+  
+C:\Users\almaz\OneDrive\Рабочий стол\Trashn\Matveev\Matveev\MainForm.h(1031,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MainForm.cpp')
+  
+C:\Users\almaz\OneDrive\Рабочий стол\Trashn\Matveev\Matveev\MainForm.h(1032,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MainForm.cpp')
+  
+C:\Users\almaz\OneDrive\Рабочий стол\Trashn\Matveev\Matveev\MainForm.h(1032,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MainForm.cpp')
+  
+C:\Users\almaz\OneDrive\Рабочий стол\Trashn\Matveev\Matveev\MainForm.h(1041,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MainForm.cpp')
+  
+C:\Users\almaz\OneDrive\Рабочий стол\Trashn\Matveev\Matveev\MainForm.h(1043,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MainForm.cpp')
+  
+C:\Users\almaz\OneDrive\Рабочий стол\Trashn\Matveev\Matveev\MainForm.h(1043,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MainForm.cpp')
+  
+C:\Users\almaz\OneDrive\Рабочий стол\Trashn\Matveev\Matveev\MainForm.h(1044,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MainForm.cpp')
+  
+C:\Users\almaz\OneDrive\Рабочий стол\Trashn\Matveev\Matveev\MainForm.h(1044,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MainForm.cpp')
+  
+C:\Users\almaz\OneDrive\Рабочий стол\Trashn\Matveev\Matveev\MainForm.h(1045,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MainForm.cpp')
+  
+C:\Users\almaz\OneDrive\Рабочий стол\Trashn\Matveev\Matveev\MainForm.h(1045,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MainForm.cpp')
+  
+  MainForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Matveev.vcxproj -> C:\Users\almaz\OneDrive\Рабочий стол\Trashn\Matveev\x64\Debug\Matveev.exe

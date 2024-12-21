@@ -1,0 +1,6 @@
+C:\Users\Дмитрий\source\repos\Matveev\Matveev\x64\Debug\Matveev.vcxproj.AssemblyReference.cache
+C:\Users\Дмитрий\source\repos\Matveev\Matveev\x64\Debug\Matveev.MainForm.resources
+C:\Users\Дмитрий\source\repos\Matveev\Matveev\x64\Debug\Matveev.vcxproj.GenerateResource.cache
+C:\Users\almaz\OneDrive\Рабочий стол\Trashn\Matveev\Matveev\x64\Debug\Matveev.vcxproj.AssemblyReference.cache
+C:\Users\almaz\OneDrive\Рабочий стол\Trashn\Matveev\Matveev\x64\Debug\Matveev.MainForm.resources
+C:\Users\almaz\OneDrive\Рабочий стол\Trashn\Matveev\Matveev\x64\Debug\Matveev.vcxproj.GenerateResource.cache
